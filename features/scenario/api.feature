@@ -14,5 +14,5 @@ Feature: Post JsonPlaceHolder
     Then the response status should be "201"
     And  the JSON response should have "id" of type numeric and value "101"
     And  the JSON response should have "title" of type string and value "foo"
-    And  the JSON response should have "body" of type string and value "bar"
+    And  the JSON response should have "body" of type string and value "bar update"
     And  the JSON response should have "userId" of type numeric and value "1"
