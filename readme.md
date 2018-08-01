@@ -1,0 +1,1 @@
+[![Build Status](https://api.travis-ci.org/LamhotJM/ci-travis.svg?branch=master)](https://travis-ci.org/LamhotJM/ci-travis)
